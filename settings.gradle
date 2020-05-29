@@ -1,0 +1,2 @@
+rootProject.name='Android10Storage'
+include ':app'
